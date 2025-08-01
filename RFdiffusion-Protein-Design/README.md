@@ -24,5 +24,3 @@ This repository provides an end-to-end pipeline for de novo protein backbone gen
 - RFdiffusion: [https://github.com/RosettaCommons/RFdiffusion](https://github.com/RosettaCommons/RFdiffusion)
 - ProteinMPNN: [https://github.com/dauparas/ProteinMPNN](https://github.com/dauparas/ProteinMPNN)
 - AlphaFold: [https://github.com/deepmind/alphafold](https://github.com/deepmind/alphafold)
-
--
