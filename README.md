@@ -2,8 +2,7 @@
 
 This repository, inspired by and referencing the work of **Gustavo Seabra** ([Github](https://github.com/gmseabra)), provides a hands-on introduction to cheminformatics, molecular data exploration, and virtual screening workflows using Python, RDKit, and machine learning.
 
-It also includes an extended workflow for de novo protein design and validation using RFdiffusion, ProteinMPNN, and AlphaFold. Adapted from the original Colab notebook by [Sergey Ovchinnikov (sokrypton)](https://github.com/sokrypton) and the RFdiffusion team.  
-  [Original Colab notebook](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.1/rf/examples/diffusion.ipynb)
+It also includes an extended workflow for de novo protein design and validation using RFdiffusion, ProteinMPNN, and AlphaFold. Adapted from the original Colab notebook by **Sergey Ovchinnikov (sokrypton)**([Github](https://github.com/sokrypton)) and the RFdiffusion team.
 
 ---
 
